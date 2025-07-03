@@ -1,0 +1,47 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Conda / virtualenv environments
+.env/
+.venv/
+*.egg-info/
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Data files
+data/raw/
+data/structured/
+
+# Medical image files
+*.nii
+*.nii.gz
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Output files
+outputs/
+runs/
+
+# Test images or visualizations
+*.png
+*.jpg
+*.jpeg
+*.tiff
